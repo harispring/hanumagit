@@ -27,7 +27,11 @@ changes made in remote
 
 changed made in local complete
 
+
 bugfix 03 changes local
+
+bugfix changes 03 remote
+
 
 
 
