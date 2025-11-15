@@ -20,4 +20,9 @@ THis is third change remote
 
 new version changes
 
+<<<<<<< HEAD
 Changes mad locally
+=======
+new changes by others
+
+>>>>>>> master
