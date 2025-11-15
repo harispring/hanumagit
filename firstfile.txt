@@ -25,5 +25,8 @@ Changes mad locally
 
 changes made in remote
 
+changed made in local complete
+
+
 
 
