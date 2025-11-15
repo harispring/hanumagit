@@ -11,3 +11,4 @@ bugfix06 changes remote
 
 bugfix06 changes local
 
+bugfix07 changes local
