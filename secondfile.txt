@@ -4,4 +4,8 @@ bugfix10 changes remote
 
 bugfix10 changes local
 
+<<<<<<< HEAD
+bugfix11 changes local
+=======
 bugfix11 changes remote
+>>>>>>> master
