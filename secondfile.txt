@@ -12,6 +12,8 @@ bugfix12 hotfix changes local
 
 bugfix12 hotfix changes remote
 
+hotfix cleared
+
 
 
 
