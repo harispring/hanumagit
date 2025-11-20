@@ -21,6 +21,7 @@ bugfix14 changes done local completed
 changes made local
 
 changes made in remote resolved
+new changes remote
 
 changes made in local new changes.
 
