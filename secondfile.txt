@@ -22,5 +22,8 @@ changes made local
 
 changes made in remote resolved
 
+changes made in local new changes.
+
+
 
 
