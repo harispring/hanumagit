@@ -16,6 +16,15 @@ hotfix cleared
 
 bugfix13 hotfix changes local
 
+bugfix14 changes done local completed
+
+changes made local
+
+changes made in remote resolved
+new changes remote
+
+changes made in local new changes.
+
 
 bugfix0003 changes done in local
 bugfix0003 changes committed remote
