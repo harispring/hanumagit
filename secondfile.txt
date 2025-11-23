@@ -40,6 +40,7 @@ bugfix20 changes done in remote fine
 bugfix 21 changes done in local
 bugfix21 changes done in remote
 
+bugfix22 changes fixed in local
 
 
 
