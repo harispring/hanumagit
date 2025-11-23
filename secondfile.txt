@@ -43,6 +43,8 @@ bugfix21 changes done in remote
 bugfix22 changes fixed in local
 bugfix22 changes done in remote
 
+bugfix23 changes done in local
+
 
 
 
